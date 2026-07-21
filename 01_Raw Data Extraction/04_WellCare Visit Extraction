@@ -1,12 +1,11 @@
 /*
 ================================================================================
 File: Extract_Well_Visits.sql
-Description: to form the file wellness_visits_after2020 to form the file 
-            wellness_visits_after2020
+Description: to extract well-check visit
 ================================================================================
 */
 
--- Extract well-check visits
+-- Extract well-check visit
 
 SELECT 
     person_id,
